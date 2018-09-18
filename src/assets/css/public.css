@@ -1,0 +1,25 @@
+/*
+   * 公共样式配置文件
+   *
+   * 主色调
+   * button样式
+   * input样式
+   * table样式
+*/
+
+/* 背景色 */
+.Blue { background: #409EFF; }
+
+.success { background: #67C23A; }
+
+.danger { background: #F56C6C; }
+
+.info { background: #909399; }
+
+/* 按钮样式 */
+.but {
+	color: #eeeeee;
+	border: none;
+	opacity: none;
+  background: #409EFF;
+}
